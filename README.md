@@ -1,5 +1,4 @@
 # Hi, I'm Lakshay Aggarwal 👋  
-
 📍 Delhi, India  
 🎓 B.Tech (CSE) | MBA (Business Analytics & Marketing)  
 📊 Data Analytics | Business Intelligence | AI-assisted Analytics  
