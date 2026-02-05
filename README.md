@@ -11,7 +11,7 @@ I am an analytics professional with a background in Computer Science and an MBA 
 | Category                      | Tools & Technologies                                                                                                                   |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Data Analytics**            | Python (Pandas, NumPy), SQL, Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Statistical Analysis & Hypothesis Testing |
-| **Visualization & BI**        | **Tableau**, Power BI (DAX, KPIs, Dashboards), Plotly, Excel (Pivot Tables, KPIs)                                                      |
+| **Visualization & BI**        | Tableau, Power BI (DAX, KPIs, Dashboards), Plotly, Excel (Pivot Tables, KPIs)                                                      |
 | **Advanced Analytics & AI**   | NLP, Exploratory Text Analysis (ETA), LLM-assisted Analytics & Insight Generation                                                      |
 | **LLM & Generative AI Tools** | OpenAI API, Google Gemini, Perplexity API, Ollama, Hugging Face                                                                        |
 | **Developer Tools**           | Git & GitHub, VS Code, Jupyter Notebook, Anaconda, MS Office                                                                           |
